@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/csharp
 
 namespace CodeWars.Core
 {
