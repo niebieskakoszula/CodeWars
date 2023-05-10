@@ -1,6 +1,6 @@
 ﻿//https://www.codewars.com/kata/53369039d7ab3ac506000467
 
-namespace CodeWars.Core;
+namespace CodeWars.Core._8kyu;
 
 public static class BoolToString
 {

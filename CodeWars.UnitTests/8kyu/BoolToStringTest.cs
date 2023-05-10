@@ -1,4 +1,4 @@
-﻿namespace CodeWars.UnitTests;
+﻿namespace CodeWars.UnitTests._8kyu;
 
 public class BoolToStringTest
 {

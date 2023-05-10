@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace CodeWars.UnitTests;
+namespace CodeWars.UnitTests._7kyu;
 
 public class RegexValidatePinTests
 {

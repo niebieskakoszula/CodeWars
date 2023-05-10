@@ -1,6 +1,6 @@
 ﻿//https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/csharp
 
-namespace CodeWars.Core;
+namespace CodeWars.Core._7kyu;
 
 public static class CategorizeNewMember
 {

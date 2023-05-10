@@ -1,4 +1,4 @@
-﻿namespace CodeWars.UnitTests;
+﻿namespace CodeWars.UnitTests._7kyu;
 
 public class BinaryArrayToIntTests
 {

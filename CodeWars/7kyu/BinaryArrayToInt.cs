@@ -1,6 +1,6 @@
 ﻿//https://www.codewars.com/kata/578553c3a1b8d5c40300037c/csharp
 
-namespace CodeWars.Core;
+namespace CodeWars.Core._7kyu;
 
 public class BinaryArrayToInt
 {

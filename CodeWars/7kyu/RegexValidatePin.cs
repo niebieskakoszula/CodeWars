@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CodeWars.Core;
+namespace CodeWars.Core._7kyu;
 
 public static class RegexValidatePin
 {

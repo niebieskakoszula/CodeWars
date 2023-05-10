@@ -1,4 +1,4 @@
-﻿namespace CodeWars.UnitTests;
+﻿namespace CodeWars.UnitTests._6kyu;
 
 public class CreatePhoneNumberTests
 {
