@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿//https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/
+
+using System.Text;
 
 namespace CodeWars.Core._6kyu
 {
